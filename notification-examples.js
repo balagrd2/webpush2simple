@@ -36,7 +36,7 @@
     const options = {
       body: 'This would be the body text of the notification.\n' +
         'It can hold two lines of text.',
-      icon: '/images/demos/icon-512x512.png',
+      icon: 'icon-512x512.png',
       badge: '/images/demos/badge-128x128.png',
       image: '/images/demos/unsplash-farzad-nazifi-1600x1100.jpg',
       tag: 'example-notification',
