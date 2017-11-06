@@ -83,7 +83,7 @@
     /**** START iconNotification ****/
     const title = 'Icon Notification';
     const options = {
-      icon: '/images/demos/icon-512x512.png'
+      icon: 'icon-512x512.png'
     };
     registration.showNotification(title, options);
     /**** END iconNotification ****/
